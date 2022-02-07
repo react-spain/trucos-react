@@ -1,4 +1,4 @@
-# trucos-react
+# Trucos React
 
 # Funciones Flecha
 ```
