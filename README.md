@@ -1,5 +1,11 @@
 # Trucos React
 
+# CRA
+```
+npx create-react-app aprendiendo_react
+npm start
+```
+
 # Funciones Flecha
 ```
 const verificarSesion = (sesion) => {
