@@ -29,3 +29,14 @@ const verificarSesion = (sesion) => {
               : <p> no has iniciado </p> } 
             </>;
  ```
+ 
+ # Map
+```
+ const amigos = ['Ale','Manuel','Cesar']
+ <ul>
+    {amigos.map( (amigo, index)=>{
+      return  <li key={index}>{amigo}</li>
+    })}
+</ul>
+ ```
+ 
